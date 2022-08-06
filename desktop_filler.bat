@@ -1,7 +1,7 @@
 :: thanks to https://serverfault.com/questions/432322/ for the timeout command
 :: thanks to https://stackoverflow.com/questions/19137876/ for the loop command
 
-:: ⚠️ THIS IS A DANGEROUS BATCH FILE. PLEASE USE AT YOUR OWN RISK. ⚠
+:: ⚠️ THIS IS A DANGEROUS BATCH FILE. PLEASE USE AT YOUR OWN RISK. ⚠️
 
 @echo off
 set webloop=3
